@@ -1,4 +1,4 @@
-### Ola, eu sou Mário Luiz Guimarães, estudante de tecnico em informatica e, futuro front-end!!
+### Olaa, eu sou Mário Luiz Guimarães, estudante de tecnico em informatica e futuro front-end!!
 
 ##
 
