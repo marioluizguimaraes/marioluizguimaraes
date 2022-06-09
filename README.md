@@ -1,6 +1,8 @@
 ### Ola, eu sou Mário Luiz Guimarães, estudante de tecnico em informatica e, futuro front-end!!
 
-<div align="center" style="display: flex">
+##
+
+<div style="display: flex">
   <a href="https://github.com/marioluizguimaraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marioluizguimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioluizguimaraes&layout=compact&langs_count=7&theme=dark"/>
