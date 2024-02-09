@@ -1,4 +1,4 @@
-### Olaa! Eu sou Mário Luiz Guimarães! 🤙
+### Olaa! Eu sou Mário Luiz Guimarães!
 
 ##
   
