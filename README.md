@@ -28,5 +28,9 @@ Junior front-end developer with knowledge in:
 ![adad ad](https://ssr-contributions-svg.vercel.app/_/marioluizguimaraes?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&dark=true)
 </div>
 
+#### Contact
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mairio.lz/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:testando.apps.mariolsg.oficial@gmail.com)
+
 <br>
 
