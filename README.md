@@ -2,6 +2,24 @@
 <br>
 <br> 
 
+# About me
+
+IT Technician and junior front-end developer with knowledge in:
+
+- HTML 5
+- CSS 3
+- JavaScript
+- react.js
+- Figma
+- WordPress
+- Elementor
+- MySQL DBMS
+
+Currently studying for a degree in Systems Analysis and Development Technology at the Institute Federal Department of Education, Science and Technology of Rio Grande do Norte Natal Central Campus.
+
+<br>
+<br>
+
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marioluizguimaraes&theme=dark)
