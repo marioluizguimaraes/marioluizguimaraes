@@ -13,9 +13,10 @@ Junior front-end developer with knowledge in:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-- Currently studying for a degree in Systems Analysis and Development Technology at the Institute Federal Department of Education, Science and Technology of Rio Grande do Norte Natal Central Campus.
-- 
+- Currently studying for a degree in Systems Analysis and Development Technology at the IFRN - Natal Central Campus.
+- Graduated in IT Technician from IFRN - Ipanguaçu
 
+##
 <br>
 
 <div align="center">
