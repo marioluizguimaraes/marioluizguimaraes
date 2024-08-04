@@ -4,8 +4,10 @@
 
 <span align="center">
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marioluizguimaraes&theme=merko&hide_border=)](https://git.io/streak-stats) 
+<br>
+<br>
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=marioluizguimaraes&show_icons=true&theme=merko) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marioluizguimaraes&theme=merko&hide_border=)](https://git.io/streak-stats)
 
 </span>
 
