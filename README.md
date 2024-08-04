@@ -3,32 +3,19 @@
 <br> 
 
 # About me
+Junior front-end developer with knowledge in:
 
-IT Technician and junior front-end developer with knowledge in:
-
-<div style="display: inline_block"><br>  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/figma-original.svg">
-
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</div><br>
 
-- HTML 5
-- CSS 3
-- JavaScript
-- react.js
-- Figma
-- WordPress
-- Elementor
-- MySQL DBMS
+- Currently studying for a degree in Systems Analysis and Development Technology at the Institute Federal Department of Education, Science and Technology of Rio Grande do Norte Natal Central Campus.
+- 
 
-Currently studying for a degree in Systems Analysis and Development Technology at the Institute Federal Department of Education, Science and Technology of Rio Grande do Norte Natal Central Campus.
-
-<br>
 <br>
 
 <div align="center">
