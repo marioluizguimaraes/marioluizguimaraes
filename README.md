@@ -2,11 +2,12 @@
 <br>
 <br> 
 
-<div align="center">
+<span align="center" width="100Vw">
   
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=marioluizguimaraes&show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=marioluizguimaraes&show_icons=true&theme=dark) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marioluizguimaraes&theme=whatsapp-dark2&border_radius=6)](https://git.io/streak-stats)
 
-</div>
+</span>
+
 <br>
 
