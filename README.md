@@ -1,4 +1,4 @@
-
+<img src="https://github.com/user-attachments/assets/27ff458b-99bc-4372-bc3a-f7e008f69d1b">
 # About me
 Junior front-end developer with knowledge in:
 
