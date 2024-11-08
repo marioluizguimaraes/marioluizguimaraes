@@ -1,6 +1,3 @@
-
-![1722903635329](https://github.com/user-attachments/assets/99daf30b-78a1-437f-a94f-5486dbfebf47)
-<br>
 # About me
 Junior front-end developer with knowledge in:
 
