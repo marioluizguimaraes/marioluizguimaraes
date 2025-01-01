@@ -6,7 +6,7 @@
 <h3 align="center">
   Web Developer • Student • Future Mobile Developer
 </h3>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marioluizguimaraes&theme=github-compact&hide_border=true" />
 <div align='center'>
 
 <div align="center">  
@@ -18,7 +18,6 @@
 </div>
 
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marioluizguimaraes&theme=dracula&hide_border=true" />
 <div>
   <br/>
   
@@ -35,9 +34,12 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,kotlin,py,git,mysql,wordpress,figma" />
     </a>
-  </p>
+    </p>
+    <br/>
   
   #
+
+  
   
   <h3>Contact Me</h3>
   <div align="left">
