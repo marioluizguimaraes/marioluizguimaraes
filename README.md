@@ -35,7 +35,6 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,java,kotlin,py,git,mysql,wordpress,figma" />
     </a>
     </p>
-    <br/>
   
   #
 
